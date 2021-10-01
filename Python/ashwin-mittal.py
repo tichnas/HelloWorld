@@ -1,1 +1,0 @@
-print('ashwin-mittal\n')

@@ -1,1 +1,0 @@
-print(ShrutiAggarwal2000)
